@@ -31,6 +31,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:visibility="gone"
-        android:text="No movies to display. Try searching for some." />
+        android:gravity="center"
+        android:text="@string/no_parties_desc"/>
 
 </android.support.design.widget.CoordinatorLayout>

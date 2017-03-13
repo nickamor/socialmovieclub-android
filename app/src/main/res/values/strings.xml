@@ -72,4 +72,5 @@
     <string name="movie_list_item_invitees_default">No Invitees</string>
 
     <string name="search_hint">Search...</string>
+    <string name="no_parties_desc">No movies to display. Try searching for some.</string>
 </resources>
