@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Social Movie Club</string>
+
+    <string name="EXTRA_KEY_IMDB_ID">com.nickamor.movieclub.extra_key_imdb_id</string>
+
+    <string-array name="default_movies_json">
+        <item>
+            {\"Title\":\"The Matrix\",\"Year\":\"1999\",\"Rated\":\"R\",\"Released\":\"31 Mar 1999\",\"Runtime\":\"136 min\",\"Genre\":\"Action, Sci-Fi\",\"Director\":\"Andy Wachowski, Lana Wachowski\",\"Writer\":\"Andy Wachowski, Lana Wachowski\",\"Actors\":\"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving\",\"Plot\":\"A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.\",\"Language\":\"English\",\"Country\":\"USA, Australia\",\"Awards\":\"Won 4 Oscars. Another 33 wins &amp; 40 nominations.\",\"Poster\":\"http://ia.media-imdb.com/images/M/MV5BMTkxNDYxOTA4M15BMl5BanBnXkFtZTgwNTk0NzQxMTE@._V1_SX300.jpg\",\"Metascore\":\"73\",\"imdbRating\":\"8.7\",\"imdbVotes\":\"1065503\",\"imdbID\":\"tt0133093\",\"Type\":\"movie\",\"Response\":\"True\"}
+        </item>
+        <item>
+            {\"Title\":\"The Man from Earth\",\"Year\":\"2007\",\"Rated\":\"N/A\",\"Released\":\"13 Nov 2007\",\"Runtime\":\"87 min\",\"Genre\":\"Drama, Sci-Fi\",\"Director\":\"Richard Schenkman\",\"Writer\":\"Jerome Bixby\",\"Actors\":\"David Lee Smith, Tony Todd, John Billingsley, Ellen Crawford\",\"Plot\":\"An impromptu goodbye party for Professor John Oldman becomes a mysterious interrogation after the retiring scholar reveals to his colleagues he never ages and has walked the earth for 14,000 years.\",\"Language\":\"English\",\"Country\":\"USA\",\"Awards\":\"4 wins &amp; 1 nomination.\",\"Poster\":\"http://ia.media-imdb.com/images/M/MV5BNjUwMDQ2NTQxMF5BMl5BanBnXkFtZTcwMDQ4NDIzMQ@@._V1_SX300.jpg\",\"Metascore\":\"N/A\",\"imdbRating\":\"8.0\",\"imdbVotes\":\"112191\",\"imdbID\":\"tt0756683\",\"Type\":\"movie\",\"Response\":\"True\"}
+        </item>
+        <item>
+            {\"Title\":\"Heat\",\"Year\":\"1995\",\"Rated\":\"R\",\"Released\":\"15 Dec 1995\",\"Runtime\":\"170 min\",\"Genre\":\"Action, Crime, Drama\",\"Director\":\"Michael Mann\",\"Writer\":\"Michael Mann\",\"Actors\":\"Al Pacino, Robert De Niro, Val Kilmer, Jon Voight\",\"Plot\":\"A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.\",\"Language\":\"English, Spanish\",\"Country\":\"USA\",\"Awards\":\"1 win &amp; 8 nominations.\",\"Poster\":\"http://ia.media-imdb.com/images/M/MV5BMTM1NDc4ODkxNV5BMl5BanBnXkFtZTcwNTI4ODE3MQ@@._V1_SX300.jpg\",\"Metascore\":\"76\",\"imdbRating\":\"8.3\",\"imdbVotes\":\"387382\",\"imdbID\":\"tt0113277\",\"Type\":\"movie\",\"Response\":\"True\"}
+        </item>
+        <item>
+            {\"Title\":\"Terminator 2: Judgment Day\",\"Year\":\"1991\",\"Rated\":\"R\",\"Released\":\"3 Jul 1991\",\"Runtime\":\"137 min\",\"Genre\":\"Action, Sci-Fi\",\"Director\":\"James Cameron\",\"Writer\":\"James Cameron, William Wisher Jr.\",\"Actors\":\"Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick\",\"Plot\":\"A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her young son, John Connor, from a more advanced cyborg, made out of liquid metal.\",\"Language\":\"English, Spanish\",\"Country\":\"USA, France\",\"Awards\":\"Won 4 Oscars. Another 20 wins &amp; 21 nominations.\",\"Poster\":\"http://ia.media-imdb.com/images/M/MV5BMTg5NzUwMDU5NF5BMl5BanBnXkFtZTcwMjk2MDA4Mg@@._V1_SX300.jpg\",\"Metascore\":\"75\",\"imdbRating\":\"8.5\",\"imdbVotes\":\"657206\",\"imdbID\":\"tt0103064\",\"Type\":\"movie\",\"Response\":\"True\"}
+        </item>
+        <item>
+            {\"Title\":\"Miami Connection\",\"Year\":\"1987\",\"Rated\":\"N/A\",\"Released\":\"18 Aug 1988\",\"Runtime\":\"83 min\",\"Genre\":\"Action, Crime\",\"Director\":\"Woo-sang Park, Y.K. Kim\",\"Writer\":\"Woo-sang Park (story), Y.K. Kim (story), Joseph Diamand (screenplay), Woo-sang Park\",\"Actors\":\"Y.K. Kim, Vincent Hirsch, Joseph Diamand, Maurice Smith\",\"Plot\":\"A martial arts rock band goes up against a band of motorcycle ninjas who have tightened their grip on Florida\'s narcotics trade.\",\"Language\":\"English\",\"Country\":\"USA\",\"Awards\":\"N/A\",\"Poster\":\"http://ia.media-imdb.com/images/M/MV5BMjA4MjcxMjYzNl5BMl5BanBnXkFtZTcwMTcyNDc1OA@@._V1_SX300.jpg\",\"Metascore\":\"56\",\"imdbRating\":\"6.1\",\"imdbVotes\":\"1786\",\"imdbID\":\"tt0092549\",\"Type\":\"movie\",\"Response\":\"True\"}
+        </item>
+        <item>
+            {\"Title\":\"The Count of Monte Cristo\",\"Year\":\"2002\",\"Rated\":\"PG-13\",\"Released\":\"25 Jan 2002\",\"Runtime\":\"131 min\",\"Genre\":\"Action, Adventure, Drama\",\"Director\":\"Kevin Reynolds\",\"Writer\":\"Alexandre Dumas père (novel), Jay Wolpert (screenplay)\",\"Actors\":\"Jim Caviezel, Guy Pearce, Richard Harris, James Frain\",\"Plot\":\"A young man, falsely imprisoned by his jealous \\"friend,\\" escapes and uses a hidden treasure to exact his revenge.\",\"Language\":\"English\",\"Country\":\"UK, USA, Ireland\",\"Awards\":\"N/A\",\"Poster\":\"http://ia.media-imdb.com/images/M/MV5BMTg2MTQwMDk4OF5BMl5BanBnXkFtZTYwNzM4NTA5._V1_SX300.jpg\",\"Metascore\":\"61\",\"imdbRating\":\"7.7\",\"imdbVotes\":\"97172\",\"imdbID\":\"tt0245844\",\"Type\":\"movie\",\"Response\":\"True\"}
+        </item>
+        <item>
+            {\"Title\":\"Inception\",\"Year\":\"2010\",\"Rated\":\"PG-13\",\"Released\":\"16 Jul 2010\",\"Runtime\":\"148 min\",\"Genre\":\"Action, Mystery, Sci-Fi\",\"Director\":\"Christopher Nolan\",\"Writer\":\"Christopher Nolan\",\"Actors\":\"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy\",\"Plot\":\"A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.\",\"Language\":\"English, Japanese, French\",\"Country\":\"USA, UK\",\"Awards\":\"Won 4 Oscars. Another 158 wins &amp; 172 nominations.\",\"Poster\":\"http://ia.media-imdb.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg\",\"Metascore\":\"74\",\"imdbRating\":\"8.8\",\"imdbVotes\":\"1275303\",\"imdbID\":\"tt1375666\",\"Type\":\"movie\",\"Response\":\"True\"}
+        </item>
+        <item>
+            {\"Title\":\"Nightcrawler\",\"Year\":\"2014\",\"Rated\":\"R\",\"Released\":\"31 Oct 2014\",\"Runtime\":\"117 min\",\"Genre\":\"Action, Crime, Thriller\",\"Director\":\"Dan Gilroy\",\"Writer\":\"Dan Gilroy\",\"Actors\":\"Jake Gyllenhaal, Michael Papajohn, Marco Rodríguez, Bill Paxton\",\"Plot\":\"When Louis Bloom, a driven man desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.\",\"Language\":\"English\",\"Country\":\"USA\",\"Awards\":\"Nominated for 1 Oscar. Another 49 wins &amp; 82 nominations.\",\"Poster\":\"http://ia.media-imdb.com/images/M/MV5BMjM5NjkzMjE5MV5BMl5BanBnXkFtZTgwNTMzNTk4MjE@._V1_SX300.jpg\",\"Metascore\":\"76\",\"imdbRating\":\"7.9\",\"imdbVotes\":\"219721\",\"imdbID\":\"tt2872718\",\"Type\":\"movie\",\"Response\":\"True\"}
+        </item>
+        <item>
+            {\"Title\":\"Dune\",\"Year\":\"1984\",\"Rated\":\"PG-13\",\"Released\":\"14 Dec 1984\",\"Runtime\":\"137 min\",\"Genre\":\"Action, Adventure, Sci-Fi\",\"Director\":\"David Lynch\",\"Writer\":\"Frank Herbert (novel), David Lynch (screenplay)\",\"Actors\":\"Francesca Annis, Leonardo Cimino, Brad Dourif, José Ferrer\",\"Plot\":\"A Duke\'s son leads desert warriors against the galactic emperor and his father\'s evil nemesis when they assassinate his father and free their desert world from the emperor\'s rule.\",\"Language\":\"English, Italian\",\"Country\":\"USA\",\"Awards\":\"Nominated for 1 Oscar. Another 2 wins &amp; 4 nominations.\",\"Poster\":\"http://ia.media-imdb.com/images/M/MV5BMTU3MjQzNjMxMF5BMl5BanBnXkFtZTcwMjIwNDgyMQ@@._V1_SX300.jpg\",\"Metascore\":\"N/A\",\"imdbRating\":\"6.6\",\"imdbVotes\":\"91240\",\"imdbID\":\"tt0087182\",\"Type\":\"movie\",\"Response\":\"True\"}
+        </item>
+        <item>
+            {\"Title\":\"The God of Cookery\",\"Year\":\"1996\",\"Rated\":\"N/A\",\"Released\":\"21 Dec 1996\",\"Runtime\":\"95 min\",\"Genre\":\"Action, Comedy\",\"Director\":\"Stephen Chow, Lik-Chi Lee\",\"Writer\":\"Stephen Chow, Man Sang Lo, Kan-Cheung Tsang\",\"Actors\":\"Stephen Chow, Karen Mok, Nancy Sit, Man Tat Ng\",\"Plot\":\"The most renowned and feared chef in the world loses his title of God of Cookery because of his pompous attitude. Humbled he sets out to reclaim his title.\",\"Language\":\"Cantonese\",\"Country\":\"Hong Kong\",\"Awards\":\"2 nominations.\",\"Poster\":\"http://ia.media-imdb.com/images/M/MV5BMTYzMDM0NzI0Ml5BMl5BanBnXkFtZTcwMTc3NDYxMQ@@._V1_SX300.jpg\",\"Metascore\":\"N/A\",\"imdbRating\":\"7.4\",\"imdbVotes\":\"5084\",\"imdbID\":\"tt0116426\",\"Type\":\"movie\",\"Response\":\"True\"}
+        </item>
+        <item>
+            {\"Title\":\"Primer\",\"Year\":\"2004\",\"Rated\":\"PG-13\",\"Released\":\"27 May 2005\",\"Runtime\":\"77 min\",\"Genre\":\"Drama, Sci-Fi, Thriller\",\"Director\":\"Shane Carruth\",\"Writer\":\"Shane Carruth\",\"Actors\":\"Shane Carruth, David Sullivan, Casey Gooden, Anand Upadhyaya\",\"Plot\":\"Four friends/fledgling entrepreneurs, knowing that there\'s something bigger and more innovative than the different error-checking devices they\'ve built, wrestle over their new invention.\",\"Language\":\"English\",\"Country\":\"USA\",\"Awards\":\"2 wins &amp; 7 nominations.\",\"Poster\":\"http://ia.media-imdb.com/images/M/MV5BMTgwNjY5MDkzOF5BMl5BanBnXkFtZTcwOTAxMTcyMQ@@._V1_SX300.jpg\",\"Metascore\":\"68\",\"imdbRating\":\"7.0\",\"imdbVotes\":\"61850\",\"imdbID\":\"tt0390384\",\"Type\":\"movie\",\"Response\":\"True\"}
+        </item>
+        <item>
+            {\"Title\":\"Automata\",\"Year\":\"2014\",\"Rated\":\"R\",\"Released\":\"17 Oct 2014\",\"Runtime\":\"109 min\",\"Genre\":\"Action, Sci-Fi, Thriller\",\"Director\":\"Gabe Ibáñez\",\"Writer\":\"Gabe Ibáñez, Igor Legarreta, Javier Sánchez Donate\",\"Actors\":\"Antonio Banderas, Dylan McDermott, Melanie Griffith, Birgitte Hjort Sørensen\",\"Plot\":\"Jacq Vaucan is an insurance agent of ROC robotics corporation who investigates cases of robots violating their primary protocols against altering themselves. What he discovers will have profound consequences for the future of humanity.\",\"Language\":\"English\",\"Country\":\"Bulgaria, USA, Spain, Canada\",\"Awards\":\"6 nominations.\",\"Poster\":\"http://ia.media-imdb.com/images/M/MV5BNzgyMDcyMjMwMV5BMl5BanBnXkFtZTgwNjY5MTA1MjE@._V1_SX300.jpg\",\"Metascore\":\"37\",\"imdbRating\":\"6.1\",\"imdbVotes\":\"32675\",\"imdbID\":\"tt1971325\",\"Type\":\"movie\",\"Response\":\"True\"}
+        </item>
+        <item>
+            {\"Title\":\"The Bourne Identity\",\"Year\":\"2002\",\"Rated\":\"PG-13\",\"Released\":\"14 Jun 2002\",\"Runtime\":\"119 min\",\"Genre\":\"Action, Mystery, Thriller\",\"Director\":\"Doug Liman\",\"Writer\":\"Tony Gilroy (screenplay), W. Blake Herron (screenplay), Robert Ludlum (novel)\",\"Actors\":\"Matt Damon, Franka Potente, Chris Cooper, Clive Owen\",\"Plot\":\"A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, before racing to elude assassins and regain his memory.\",\"Language\":\"English, French, German, Dutch, Italian\",\"Country\":\"USA, Germany, Czech Republic\",\"Awards\":\"3 wins &amp; 4 nominations.\",\"Poster\":\"http://ia.media-imdb.com/images/M/MV5BMTQ3MDA4MDIyN15BMl5BanBnXkFtZTYwOTg0Njk4._V1_SX300.jpg\",\"Metascore\":\"68\",\"imdbRating\":\"7.9\",\"imdbVotes\":\"361223\",\"imdbID\":\"tt0258463\",\"Type\":\"movie\",\"Response\":\"True\"}
+        </item>
+        <item>
+            {\"Title\":\"Run Lola Run\",\"Year\":\"1998\",\"Rated\":\"R\",\"Released\":\"18 Jun 1999\",\"Runtime\":\"80 min\",\"Genre\":\"Crime, Thriller\",\"Director\":\"Tom Tykwer\",\"Writer\":\"Tom Tykwer (screenplay)\",\"Actors\":\"Franka Potente, Moritz Bleibtreu, Herbert Knaup, Nina Petri\",\"Plot\":\"After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks.\",\"Language\":\"German, English, Japanese\",\"Country\":\"Germany\",\"Awards\":\"Nominated for 1 BAFTA Film Award. Another 31 wins &amp; 16 nominations.\",\"Poster\":\"http://ia.media-imdb.com/images/M/MV5BMjA5MDg3MjYyOF5BMl5BanBnXkFtZTgwODk3NjkzMTE@._V1_SX300.jpg\",\"Metascore\":\"77\",\"imdbRating\":\"7.8\",\"imdbVotes\":\"152952\",\"imdbID\":\"tt0130827\",\"Type\":\"movie\",\"Response\":\"True\"}
+        </item>
+        <item>
+            {\"Title\":\"Birdman: Or (The Unexpected Virtue of Ignorance)\",\"Year\":\"2014\",\"Rated\":\"R\",\"Released\":\"14 Nov 2014\",\"Runtime\":\"119 min\",\"Genre\":\"Comedy, Drama\",\"Director\":\"Alejandro González Iñárritu\",\"Writer\":\"Alejandro González Iñárritu, Nicolás Giacobone, Alexander Dinelaris, Armando Bo, Raymond Carver (play)\",\"Actors\":\"Michael Keaton, Emma Stone, Kenny Chin, Jamahl Garrison-Lowe\",\"Plot\":\"A washed-up actor, who once played an iconic superhero, battles his ego and attempts to recover his family, his career and himself in the days leading up to the opening of his Broadway play.\",\"Language\":\"English\",\"Country\":\"USA\",\"Awards\":\"Won 4 Oscars. Another 206 wins &amp; 181 nominations.\",\"Poster\":\"http://ia.media-imdb.com/images/M/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@._V1_SX300.jpg\",\"Metascore\":\"88\",\"imdbRating\":\"7.9\",\"imdbVotes\":\"291142\",\"imdbID\":\"tt2562232\",\"Type\":\"movie\",\"Response\":\"True\"}
+        </item>
+    </string-array>
+
+    <string name="movie_poster_description">Movie Poster</string>
+    <string name="movie_title_placeholder">Title</string>
+    <string name="movie_year_placeholder">Year</string>
+    <string name="movie_plot_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit gravida mi, facilisis molestie sem sodales at. Suspendisse commodo sapien at mi consequat eleifend. Ut ut diam ac libero luctus euismod. Curabitur bibendum urna sed nisl malesuada, ac sagittis ligula iaculis. Nunc molestie ex sed bibendum interdum. Etiam facilisis luctus felis sed feugiat.</string>
+
+    <string name="party_date_hint">Date &amp; Time</string>
+    <string name="party_venue_hint">Venue</string>
+    <string name="party_location_hint">Location</string>
+    <string name="party_invitees_hint">Invitees</string>
+
+    <string name="edit_party_date_label_text">Party Date</string>
+
+    <string name="party_new_invite_text">Invite</string>
+
+    <string name="movie_add_party_text">New Party</string>
+
+    <string name="movie_short_plot_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit gravida mi, facilisis molestie sem sodales at.</string>
+
+    <string name="movie_list_item_invitees_default">No Invitees</string>
+
+    <string name="search_hint">Search…</string>
+    <string name="no_parties_desc">No movies to display. Try searching for some.</string>
+    <string name="no_search_results_desc">No movies found.</string>
+</resources>
